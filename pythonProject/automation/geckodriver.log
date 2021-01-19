@@ -1,0 +1,11 @@
+1611043493801	geckodriver	INFO	Listening on 127.0.0.1:55834
+1611043495474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofilewwpg5U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611043507565	Marionette	INFO	Listening on port 55846
+1611043507720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/bernie.f091d9d9eb0afb964a49.js, line 2: Error: Could not find locale: en_US 
+n(...) is not a function
+1611043573461	Marionette	INFO	Stopped listening on port 55846
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
