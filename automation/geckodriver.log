@@ -9,3 +9,116 @@ n(...) is not a function
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1611060001482	geckodriver	INFO	Listening on 127.0.0.1:58420
+1611060002676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofileRjqzKR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611060027303	Marionette	INFO	Listening on port 58432
+1611060027969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611060029453	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3175: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3181: unreachable code after return statement
+JavaScript error: https://widgets.outbrain.com/nanoWidget/externals/obUserFrame/test.html?lsd=953e8e8a-ddea-4cd4-b075-48e6ef4a1476, line 29: SecurityError: The operation is insecure.
+JavaScript error: https://widgets.outbrain.com/widgetOBUserSync/obUserSync.html#pid=38950&dmpenabled=false&filterDMP=&csenabled=true&d=hEN_tQemSHGPcRVUoeB_KXF1gUDULmikaLwV1Klmfm-bmboHCtyS4uAyRMp0-0A9&gdpr=0&cmpNeeded=false&gdprVer=null&ccpa=1---&country=IN, line 3: SecurityError: The operation is insecure.
+JavaScript error: https://www.moneycontrol.com/, line 378: TypeError: EB.Comm is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3175: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3181: unreachable code after return statement
+JavaScript error: https://widgets.outbrain.com/nanoWidget/externals/obUserFrame/test.html?lsd=953e8e8a-ddea-4cd4-b075-48e6ef4a1476, line 29: SecurityError: The operation is insecure.
+JavaScript error: https://widgets.outbrain.com/widgetOBUserSync/obUserSync.html#pid=38950&dmpenabled=false&filterDMP=&csenabled=true&d=hEN_tQemSHGPcRVUoeB_KXF1gUDULmikaLwV1Klmfm-bmboHCtyS4uAyRMp0-0A9&gdpr=0&cmpNeeded=false&gdprVer=null&ccpa=1---&country=IN, line 3: SecurityError: The operation is insecure.
+JavaScript error: https://www.moneycontrol.com/, line 378: TypeError: EB.Comm is undefined
+1611060441997	geckodriver	INFO	Listening on 127.0.0.1:59658
+1611060442592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofileXuqK4K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611060477479	Marionette	INFO	Listening on port 59672
+1611060477994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611060479981	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3175: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3181: unreachable code after return statement
+1611060572138	geckodriver	INFO	Listening on 127.0.0.1:60557
+1611060574355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofilekcuoNg"
+JavaScript error: https://www.moneycontrol.com/, line 378: TypeError: EB.Comm is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611060616079	Marionette	INFO	Listening on port 60573
+1611060616522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611060619864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.moneycontrol.com/, line 1: ReferenceError: getAutosuggesionHeader is not defined
+JavaScript error: https://www.moneycontrol.com/, line 1: ReferenceError: getAutosuggesionHeader is not defined
+JavaScript error: https://stat3.moneycontrol.com/mcjs/common/jquery-1.12.0.min.js line 2 > eval, line 299: ReferenceError: loadStacks is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3175: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3181: unreachable code after return statement
+JavaScript error: https://widgets.outbrain.com/nanoWidget/externals/obUserFrame/test.html?lsd=c9a86d1a-9363-4a16-9fe0-1e0504192de7, line 29: SecurityError: The operation is insecure.
+JavaScript error: https://widgets.outbrain.com/widgetOBUserSync/obUserSync.html#pid=38950&dmpenabled=false&filterDMP=&csenabled=true&d=CWEJuyH0BKspVIRdlPY_QtUoS0rn_FWaifr51RZRzofcd-cI6GmPYYINLHU8_pwr&gdpr=0&cmpNeeded=false&gdprVer=null&ccpa=1---&country=IN, line 3: SecurityError: The operation is insecure.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210112/r20190131/show_ads_impl_fy2019.js, line 252: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210112/r20190131/show_ads_impl_fy2019.js, line 252: Error: XHR error: https://partner.googleadservices.com/gampad/cookie.js?domain=www.moneycontrol.com&client=ca-pub-6070398767421094&cookie=ID=0e859f282116a311-227708ecc1c5003f:T=1611060609:S=ALNI_MbceUzlXOx8xHDpQfEkXLWP3zV_4g
+JavaScript error: https://www.moneycontrol.com/, line 378: TypeError: EB.Comm is undefined
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3175: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3181: unreachable code after return statement
+JavaScript error: https://widgets.outbrain.com/nanoWidget/externals/obUserFrame/test.html?lsd=953e8e8a-ddea-4cd4-b075-48e6ef4a1476, line 29: SecurityError: The operation is insecure.
+JavaScript error: https://widgets.outbrain.com/widgetOBUserSync/obUserSync.html#pid=38950&dmpenabled=false&filterDMP=&csenabled=true&d=hEN_tQemSHGPcRVUoeB_KXF1gUDULmikaLwV1Klmfm-bmboHCtyS4uAyRMp0-0A9&gdpr=0&cmpNeeded=false&gdprVer=null&ccpa=1---&country=IN, line 3: SecurityError: The operation is insecure.
+JavaScript error: https://www.moneycontrol.com/ line 2 > injectedScript, line 378: TypeError: EB.Comm is undefined
+JavaScript error: https://player.aniview.com/script/6.1/aniview.js, line 3: TypeError: n is undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":176,"stack":["resource://gre/modules/CrashMonitor.jsm:init:176","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Tue Jan 19 2021 18:32:02 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Tue Jan 19 2021 18:32:02 GMT+0530 (India Standard Time)",null],"messagesSent":86,"messagesReceived":86,"messagesQueued":87,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":176,"stack":["resource://gre/modules/CrashMonitor.jsm:init:176","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1652,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1652","resource://gre/modules/osfile/osfile_async_front.jsm:null:1672","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:16","resource://gre/modules/AddonManager.jsm:startup:789","resource://gre/modules/AddonManager.jsm:startup:3530","resource://gre/modules/addonManager.js:observe:87"]},{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1894","resource:///modules/BrowserGlue.jsm:BG_observe:1045","chrome://browser/content/browser.js:_delayedStartup:2205"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":176,"stack":["resource://gre/modules/CrashMonitor.jsm:init:176","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Tue Jan 19 2021 18:32:04 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Tue Jan 19 2021 18:32:04 GMT+0530 (India Standard Time)",null],"messagesSent":91,"messagesReceived":91,"messagesQueued":91,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":176,"stack":["resource://gre/modules/CrashMonitor.jsm:init:176","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1652,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1652","resource://gre/modules/osfile/osfile_async_front.jsm:null:1672","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:16","resource://gre/modules/AddonManager.jsm:startup:789","resource://gre/modules/AddonManager.jsm:startup:3530","resource://gre/modules/addonManager.js:observe:87"]},{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1894","resource:///modules/BrowserGlue.jsm:BG_observe:1045","chrome://browser/content/browser.js:_delayedStartup:2205"]}] Barrier: profile-before-change
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210112/r20190131/show_ads_impl_fy2019.js, line 252: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210112/r20190131/show_ads_impl_fy2019.js, line 252: Error: XHR error: https://partner.googleadservices.com/gampad/cookie.js?domain=www.moneycontrol.com&client=ca-pub-6070398767421094&cookie=ID=41b1bf496fb7cd12-22bf826cc0c5008a:T=1611060744:S=ALNI_MYY3esW1_-qfVkKseqh4nS_4OyNUg
+1611061366382	Marionette	INFO	Stopped listening on port 59672
+1611061366656	Marionette	INFO	Stopped listening on port 58432
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3175: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3181: unreachable code after return statement
+JavaScript error: https://widgets.outbrain.com/nanoWidget/externals/obUserFrame/test.html?lsd=c9a86d1a-9363-4a16-9fe0-1e0504192de7, line 29: SecurityError: The operation is insecure.
+1611061587589	Marionette	INFO	Stopped listening on port 60573
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
