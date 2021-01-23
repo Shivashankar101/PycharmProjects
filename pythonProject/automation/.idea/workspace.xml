@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="930b213c-a0d7-44e2-b35d-b2b9f103de73" name="Default Changelist" comment=" again added frames">
-      <change afterPath="$PROJECT_DIR$/../../automation/window_handle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/InputBoxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/table_contents.py" afterDir="false" />
+    <list default="true" id="930b213c-a0d7-44e2-b35d-b2b9f103de73" name="Default Changelist" comment=" gone through tables">
+      <change afterPath="$PROJECT_DIR$/../../automation/Mouse_Actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/scroll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../automation/table_contents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/table_contents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../automation/window_handle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/window_handle_scroll.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -43,7 +50,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.table_contents">
+  <component name="RunManager" selected="Python.Mouse_Actions">
+    <configuration name="Mouse_Actions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/Mouse_Actions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,23 +93,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="implicitwait" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="seleniumtest1" />
+    <configuration name="scroll (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/implicitwait.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/scroll.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scroll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="scroll" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
@@ -128,16 +177,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="window_handle_scroll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/window_handle_scroll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.window_handle" />
-      <item itemvalue="Python.implicitwait" />
+      <item itemvalue="Python.scroll" />
+      <item itemvalue="Python.scroll (1)" />
+      <item itemvalue="Python.window_handle_scroll" />
+      <item itemvalue="Python.Mouse_Actions" />
       <item itemvalue="Python.table_contents" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Mouse_Actions" />
         <item itemvalue="Python.table_contents" />
-        <item itemvalue="Python.implicitwait" />
+        <item itemvalue="Python.window_handle_scroll" />
+        <item itemvalue="Python.scroll (1)" />
+        <item itemvalue="Python.scroll" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611148856282</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" gone through tables">
+      <created>1611176626144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611176626145</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +280,8 @@
     <MESSAGE value="frames added" />
     <MESSAGE value="added frames" />
     <MESSAGE value=" again added frames" />
-    <option name="LAST_COMMIT_MESSAGE" value=" again added frames" />
+    <MESSAGE value=" gone through tables" />
+    <option name="LAST_COMMIT_MESSAGE" value=" gone through tables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
