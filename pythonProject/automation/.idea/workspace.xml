@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="930b213c-a0d7-44e2-b35d-b2b9f103de73" name="Default Changelist" comment="new topics added">
-      <change afterPath="$PROJECT_DIR$/../../automation/UPLOAD_Download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/logintest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/xl_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/UPLOAD.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/XLUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/.idea/test_TestDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Assersion_TestCase1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Logger_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Logging_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/TC_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/TC_singup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Pacage2/TC_Payment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Pacage2/TC_Return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Pacage2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/ScreenShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/TestCase1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/TestCase2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/TestCase3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/TestSuitPacage/All_TestSuits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/TestSuitPacage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/test_pytestdemo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/test_pyttest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../automation/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +66,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.logintest">
-    <configuration name="Mouse_Actions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_pytestdemo2">
+    <configuration name="All_TestSuits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation/TestSuitPacage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/Mouse_Actions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/TestSuitPacage/All_TestSuits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XLUtils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testSuitTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/XLUtils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/testSuitTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logintest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_TestDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation/.idea" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/logintest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/.idea/test_TestDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="table_contents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_pytestdemo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +163,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/table_contents.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/test_pytestdemo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_pyttest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/test_pyttest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,43 +214,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xl_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/xl_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.window_handle" />
-      <item itemvalue="Python.Mouse_Actions" />
-      <item itemvalue="Python.table_contents" />
-      <item itemvalue="Python.xl_file" />
-      <item itemvalue="Python.XLUtils" />
-      <item itemvalue="Python.logintest" />
+      <item itemvalue="Python.All_TestSuits" />
+      <item itemvalue="Python.testSuitTest" />
+      <item itemvalue="Python.test_TestDemo" />
+      <item itemvalue="Python.test_pyttest" />
+      <item itemvalue="Python.test_pytestdemo2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.logintest" />
-        <item itemvalue="Python.XLUtils" />
-        <item itemvalue="Python.xl_file" />
-        <item itemvalue="Python.Mouse_Actions" />
-        <item itemvalue="Python.table_contents" />
+        <item itemvalue="Python.test_pytestdemo2" />
+        <item itemvalue="Python.test_pyttest" />
+        <item itemvalue="Python.test_TestDemo" />
+        <item itemvalue="Python.testSuitTest" />
+        <item itemvalue="Python.All_TestSuits" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611426807846</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new concepts">
+      <created>1611743633590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611743633590</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +313,8 @@
     <MESSAGE value=" again added frames" />
     <MESSAGE value=" gone through tables" />
     <MESSAGE value="new topics added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new topics added" />
+    <MESSAGE value="new concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="new concepts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
