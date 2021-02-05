@@ -1,8 +1,7 @@
 
 
 # # upload ##
-
-# driver.find_element_by_id("id of the upload button").send_keys("path of the file to be uploaded")
+driver.find_element_by_id("id of the upload button").send_keys("path of the file to be uploaded")
 
 
 

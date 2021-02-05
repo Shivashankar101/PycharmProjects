@@ -2,26 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="930b213c-a0d7-44e2-b35d-b2b9f103de73" name="Default Changelist" comment="new topics added">
-      <change afterPath="$PROJECT_DIR$/../../automation/.idea/test_TestDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Assersion_TestCase1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Logger_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Logging_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/TC_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/TC_singup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage2/TC_Payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage2/TC_Return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/ScreenShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/TestCase1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/TestCase2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/TestCase3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/TestSuitPacage/All_TestSuits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/TestSuitPacage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/test_pytestdemo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/test_pyttest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/My Project Automation-aee13e76bf37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/Happy_no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Social_Network/.idea/Social_Network.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Social_Network/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Social_Network/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Social_Network/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Social_Network/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Social_Network/facebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/Social_Network/gmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/amazon_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/google_spreadsheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/panda_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/pdf_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/web_scapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../automation/whats_up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/.idea/interviewQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/enumerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/enumerator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewQ/list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../automation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../automation/UPLOAD_Download.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/UPLOAD_Download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../automation/test_pytestdemo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/test_pytestdemo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../automation/xl_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/xl_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,41 +65,23 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1n3il3CeQNuuzmbTGDbRpbUyNbx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test_pytestdemo2">
-    <configuration name="All_TestSuits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation/TestSuitPacage" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/TestSuitPacage/All_TestSuits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.whats_up">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testSuitTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="amazon_books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/testSuitTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/amazon_books.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_TestDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="facebook (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation/.idea" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation/Social_Network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/.idea/test_TestDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/Social_Network/facebook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,28 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_pytestdemo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/test_pytestdemo2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_pyttest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +157,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/test_pyttest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/mail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_scapping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/web_scapping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="whats_up" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../automation/whats_up.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,20 +231,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.amazon_books" />
+      <item itemvalue="Python.facebook (1)" />
+      <item itemvalue="Python.mail" />
+      <item itemvalue="Python.web_scapping" />
+      <item itemvalue="Python.whats_up" />
       <item itemvalue="Python.window_handle" />
-      <item itemvalue="Python.All_TestSuits" />
-      <item itemvalue="Python.testSuitTest" />
-      <item itemvalue="Python.test_TestDemo" />
-      <item itemvalue="Python.test_pyttest" />
-      <item itemvalue="Python.test_pytestdemo2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_pytestdemo2" />
-        <item itemvalue="Python.test_pyttest" />
-        <item itemvalue="Python.test_TestDemo" />
-        <item itemvalue="Python.testSuitTest" />
-        <item itemvalue="Python.All_TestSuits" />
+        <item itemvalue="Python.whats_up" />
+        <item itemvalue="Python.mail" />
+        <item itemvalue="Python.amazon_books" />
+        <item itemvalue="Python.web_scapping" />
+        <item itemvalue="Python.facebook (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611743633590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="more new concepts">
+      <created>1611982277535</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611982277535</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +329,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;altert&quot;" />
     <MESSAGE value="frames added" />
     <MESSAGE value="added frames" />
@@ -314,7 +337,8 @@
     <MESSAGE value=" gone through tables" />
     <MESSAGE value="new topics added" />
     <MESSAGE value="new concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="new concepts" />
+    <MESSAGE value="more new concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="more new concepts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
