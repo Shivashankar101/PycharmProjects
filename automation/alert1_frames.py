@@ -27,3 +27,5 @@ WebDriverWait(browser, 10).until(EC.alert_is_present()).accept()
 
 time.sleep(4)
 browser.quit()
+
+# change made here 12.51 1oth feb
