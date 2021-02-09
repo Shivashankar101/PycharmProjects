@@ -130,9 +130,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.window_handle" />
       <item itemvalue="Python.implicitwait" />
       <item itemvalue="Python.table_contents" />
+      <item itemvalue="Python.window_handle" />
     </list>
     <recent_temporary>
       <list>
