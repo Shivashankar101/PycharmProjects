@@ -2,42 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="930b213c-a0d7-44e2-b35d-b2b9f103de73" name="Default Changelist" comment="new topics added">
-      <change afterPath="$PROJECT_DIR$/../../SQL/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SQL/intro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Happy_no.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Key-word-driven-framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/TC_login2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/Pacage1/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/break[oint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/data-driven-framework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/firefox_automationa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/login_sos_med.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/screenshots/gmail2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/screenshots/gmail_error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../automation/selenese.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler3i.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler5i.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interviewQ/Euler9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/Pacage1/Happy_no.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/Pacage1/TC_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/Pacage1/TC_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/TestSuitPacage/All_TestSuits.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/TestSuitPacage/All_TestSuits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/alert1_frames.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/alert1_frames.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/amazon_books.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/amazon_books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/explicitwait.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/explicitwait.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -331,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612886706096</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new files and changes">
+      <created>1612887595467</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612887595467</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
