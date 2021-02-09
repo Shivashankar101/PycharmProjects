@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="930b213c-a0d7-44e2-b35d-b2b9f103de73" name="Default Changelist" comment=" again added frames">
-      <change afterPath="$PROJECT_DIR$/../../automation/window_handle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automation/InputBoxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../automation/table_contents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="930b213c-a0d7-44e2-b35d-b2b9f103de73" name="Default Changelist" comment=" again added frames" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +26,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1n3il3CeQNuuzmbTGDbRpbUyNbx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -191,6 +189,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;altert&quot;" />
