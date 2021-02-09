@@ -198,13 +198,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.TC_login" />
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.window_handle" />
       <item itemvalue="Python.amazon_books" />
+      <item itemvalue="Python.login_sos_med" />
       <item itemvalue="Python.mail" />
       <item itemvalue="Python.whats_up" />
-      <item itemvalue="Python.login_sos_med" />
-      <item itemvalue="Python.TC_login" />
+      <item itemvalue="Python.window_handle" />
     </list>
     <recent_temporary>
       <list>
