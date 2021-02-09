@@ -1,3 +1,5 @@
+import HtmlTestRunner
+
 import unittest
 
 from Pacage1.TC_login import LoginTest

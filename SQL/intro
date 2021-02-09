@@ -1,0 +1,22 @@
+SQL  --- structure query language -- to communicate with database
+
+database components -- clint and server
+    clint - a software - requests data -- tool to execute SQL commands -- simple tool
+
+        2Types of clients by default installed GUI and CLI
+        -- Oracle
+        1) GUI example :Oracle's SQLDeveloper
+        2) CLI example :Oracle's SQLPlus
+
+        ---other genetic 3rd party clie nts -
+        examples -- Toad,  Squirrel , Aqua-data studio
+
+        -- MYSQL
+        MySQLWorkbench (GUI)
+        MYSQL CommandlineTool (CLI)
+            root - password --> bel@1234
+
+
+    server - a software -  stores data -- require huge memory --
+both can be on different machine -- most of the time servers will be in remote machine
+UNIX or LINUX systems are used for such server

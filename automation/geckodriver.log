@@ -448,3 +448,58 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1612513370851	geckodriver	INFO	Listening on 127.0.0.1:52827
+1612513371691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofileGQNWuF"
+Exiting due to channel error.
+Exiting due to channel error.
+1612513490309	geckodriver	INFO	Listening on 127.0.0.1:53425
+1612513491184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofileIwOXyj"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1612514327310	geckodriver	INFO	Listening on 127.0.0.1:54123
+1612514327818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofileppvagW"
+Exiting due to channel error.
+Exiting due to channel error.
+1612514369751	geckodriver	INFO	Listening on 127.0.0.1:54439
+1612514369882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofilePvQ3Wm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612514395977	Marionette	INFO	Listening on port 54448
+1612514397027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612514397518	Marionette	ERROR	[19] No reply from Marionette:Register
+1612514661958	geckodriver	INFO	Listening on 127.0.0.1:54780
+1612514662861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofile7K4fdC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612514671826	Marionette	INFO	Listening on port 54791
+1612514671923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612514671946	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://ssl.gstatic.com/support/realtime/operator/1612382487672/operatordeferred_bin_base__en.js, line 84: uncaught exception: [object Object]
+1612514968286	geckodriver	INFO	Listening on 127.0.0.1:55011
+1612514969224	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/24/fsvtdk8115lbk1p0nh750zp80000gn/T/rust_mozprofileQBlra4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612514977141	Marionette	INFO	Listening on port 55022
+1612514977288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612514977310	Marionette	ERROR	[16] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612514979378	Marionette	INFO	Stopped listening on port 54791
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612514981486	Marionette	INFO	Stopped listening on port 54448
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1612533347478	Marionette	INFO	Stopped listening on port 55022
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

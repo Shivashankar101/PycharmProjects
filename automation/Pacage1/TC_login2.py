@@ -18,10 +18,11 @@ class LoginTest(unittest.TestCase):
     def setUpClass(cls):
         cls.driver = driver
 
-    # @classmethod
-    # def setUp(self):
+    # def test_homepage(self):
     #     driver.get(url)
     #     self.assertEqual(page_title, driver.title , "page title is not matching")
+    #
+    # def test_log_in(self):
     #     login_tab.send_keys(login_id).submit()
     #     password_tab.send_keys(password).submit()
 

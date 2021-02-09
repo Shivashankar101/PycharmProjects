@@ -21,21 +21,16 @@ def get_record(item):
         url = 'https://www.amazon.in//' + item.h2.a.get('href')
         author_line = item.find('div', {'class': 'a-row a-size-base a-color-secondary'})
         author = author_line.a.text.strip()
-    except ArithmeticError:
-        return
-
-    try:
         # star-rating
         rating = item.i.text
         reviews = author_line.find('span', {'class': 'a-size-base', 'dir': 'auto'}).text
-    except AttributeError:
-        rating = ' '
-        reviews = ' '
-
-    try:
         # price
         price = item.find('span', {'class': 'a-price'}).text
     except AttributeError:
+        description = ' '
+        author = ' '
+        rating = ' '
+        reviews = ' '
         price = ' '
 
     result = (description, author, rating, reviews, price, url)
@@ -45,7 +40,7 @@ def scrap_data(search_item):
 
     url = get_url(search_item)
     driver = webdriver.Safari()
-    records = [ ]
+    records = []
     for page in range(1, 21):
         driver.get(url.format(page))
         driver.maximize_window()
@@ -55,7 +50,7 @@ def scrap_data(search_item):
         res = soup.find_all('div', {'data-component-type': 's-search-result'})
 
         for item in res:
-            time.sleep(3)
+            time.sleep(1)
             record = get_record(item)
             if record:
                 records.append(record)
