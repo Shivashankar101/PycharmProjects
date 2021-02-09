@@ -25,5 +25,5 @@ WebDriverWait(browser, 10).until(EC.alert_is_present()).accept()
 # browser.switch_to_default_content()
 
 
-time.sleep(4)
+time.sleep(3)
 browser.quit()
