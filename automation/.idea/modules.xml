@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Social_Network/.idea/Social_Network.iml" filepath="$USER_HOME$/Social_Network/.idea/Social_Network.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/seleniumtest1.iml" filepath="$PROJECT_DIR$/.idea/seleniumtest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/automation.iml" filepath="$PROJECT_DIR$/.idea/automation.iml" />
     </modules>
   </component>
 </project>
