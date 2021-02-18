@@ -1,0 +1,12 @@
+datasources:aabb19045e4da221fafd20cf3a7343cfad886561
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:8e69aafb47df473b2f8d5ad17cdc7c9684a556d8
+--suite Suites.TC1
+--suite Suites.DDT in script
+--suite Suites.DDT with XL CSV
+--suite Suites.For Loop
+--suite Suites.Frame
+--suite Suites.Input-Box Wait-Commands
+--suite Suites.Navigation Screenshot
+--suite Suites.POM twitter login TC

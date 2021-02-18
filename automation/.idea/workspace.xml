@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01b15e7c-e4fe-4519-9601-aada3c398fc6" name="Default Changelist" comment="" />
+    <list default="true" id="01b15e7c-e4fe-4519-9601-aada3c398fc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Testing.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/Resources/r.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/Frame.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.2_Keyword_with_arguments.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.3_Resources.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/for_loop.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/input-box_wait-commands.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/navigation_screenshot.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../robot/TestCases/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../robot/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot/TestCases/TC1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.robot" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="XLUtils" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
