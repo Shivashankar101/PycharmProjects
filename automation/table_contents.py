@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-browser = webdriver.Safari()
+browser = webdriver.Chrome(executable_path="/Users/shiv/desktop/drivers/chrome/chromedriver")
 browser.get("https://en.wikipedia.org/wiki/List_of_state_and_union_territory_capitals_in_India")
 browser.implicitly_wait(10)
 # browser.maximize_window()

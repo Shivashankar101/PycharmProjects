@@ -1,6 +1,6 @@
 
 
-#wait.WebDriver() # explict wait
+#wait.WebDriver() --- Explicit wait   # time.sleep()  --explict wait
 
 import selenium
 import time
