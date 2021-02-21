@@ -1,2 +1,16 @@
 [2021-02-21 12:35:33,237] MacBook-Pro.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
 [2021-02-21 12:35:33,272] MacBook-Pro.local/INFO/locust.main: Starting Locust 1.4.3
+[2021-02-21 12:38:17,162] MacBook-Pro.local/INFO/locust.runners: Spawning 1 users at the rate 1 users/s (0 users already running)...
+[2021-02-21 12:38:17,163] MacBook-Pro.local/INFO/locust.runners: All users spawned: WebsiteUser: 1 (1 total running)
+[2021-02-21 12:38:54,161] MacBook-Pro.local/INFO/locust.runners: Stopping 1 users
+[2021-02-21 12:38:54,218] MacBook-Pro.local/INFO/locust.runners: 1 Users have been stopped, 0 still running
+[2021-02-21 13:10:31,044] MacBook-Pro.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-02-21 13:10:31,100] MacBook-Pro.local/INFO/locust.main: Starting Locust 1.4.3
+[2021-02-21 13:11:58,365] MacBook-Pro.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-02-21 13:11:58,421] MacBook-Pro.local/INFO/locust.main: Starting Locust 1.4.3
+[2021-02-21 13:37:48,727] MacBook-Pro.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-02-21 13:37:48,779] MacBook-Pro.local/INFO/locust.main: Starting Locust 1.4.3
+[2021-02-21 13:38:05,874] MacBook-Pro.local/INFO/locust.runners: Spawning 6 users at the rate 1 users/s (0 users already running)...
+[2021-02-21 13:38:11,400] MacBook-Pro.local/INFO/locust.runners: All users spawned: WebsiteUser: 6 (6 total running)
+[2021-02-21 13:39:16,350] MacBook-Pro.local/INFO/locust.runners: Stopping 6 users
+[2021-02-21 13:39:16,437] MacBook-Pro.local/INFO/locust.runners: 6 Users have been stopped, 0 still running

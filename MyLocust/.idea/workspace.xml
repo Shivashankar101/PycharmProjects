@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4d8a86-a3a4-4b95-b68b-1e3adb2eeeab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/http_get.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_max_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twitter_login_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locust,log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qamile_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter_diff_Users.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locust1.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../robot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../robot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locust.log" beforeDir="false" afterPath="$PROJECT_DIR$/locust.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -81,8 +85,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.locust1" />
       <item itemvalue="Python.locustfile" />
+      <item itemvalue="Python.locust1" />
     </list>
     <recent_temporary>
       <list>
@@ -106,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613634924737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learning things">
+      <created>1613891199287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613891199287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
+    <MESSAGE value="learning things" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning things" />
   </component>
 </project>
