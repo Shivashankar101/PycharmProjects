@@ -2,59 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4d8a86-a3a4-4b95-b68b-1e3adb2eeeab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/MyLocust.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/locust1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyLocust/locustfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automation/Testing.code-workspace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/.pabotsuitenames" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/PageObjects/POM_twitter_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Resources/POM_twitter_login_R.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Resources/login_twitter.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Resources/r.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/0/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/0/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/1/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/1/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/2/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/2/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/3/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/3/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/4/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/4/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/5/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/5/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/6/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/6/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/7/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Results/pabot_results/7/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/DDT_in_script.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/DDT_with_XL_CSV.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/Frame.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/POM_twitter_login_TC.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.1.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.2_Keyword_with_arguments.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.3_Resources.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/for_loop.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/input-box_wait-commands.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/navigation_screenshot.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/TestCases/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Testdata/robot_data_twitter.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/Testdata/xlsxlogin.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/pabot_results/0/robot_stderr.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/pabot_results/0/robot_stdout.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../robot/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../automation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../robot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../robot/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../robot/TestCases/TC1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../robot/TestCases/TC1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min_max_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter_login_post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locust1.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../robot/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,27 +38,6 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.locust1">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="MyLocust" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="locust1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyLocust" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,11 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyLocust" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MyLocust/locust1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locust1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/untitled/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyLocust" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MyLocust/locustfile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locustfile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,86 +80,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="MyLocust" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="MyLocust" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="MyLocust" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="MyLocust" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <module name="MyLocust" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.locustfile" />
       <item itemvalue="Python.locust1" />
+      <item itemvalue="Python.locustfile" />
     </list>
     <recent_temporary>
       <list>
@@ -262,6 +119,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

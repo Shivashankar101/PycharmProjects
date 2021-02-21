@@ -1,17 +1,15 @@
-from locust import HttpUser, TaskSet, task
+from locust import HttpUser, TaskSet
 
 
-def login():
+def task1():
     print("i am logged in")
 
-def logout():
+def task2():
     print("I am Logged out")
 
-
-class UserBehavior(TaskSet):
-    task = [logout(), login()]
-
+# class UserBehavior(TaskSet):
+#     # tasks = [task1, task2]
+#     tasks = {task1: 3, task2: 1}  ### giving weightage to tasks
 
 class WebsiteUser(HttpUser):
-    tasks = [UserBehavior]
-
+    tasks = {task1: 3, task2: 1}
